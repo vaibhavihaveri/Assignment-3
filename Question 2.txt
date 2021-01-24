@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+   <script>
+       var age=15;
+       if(age>=18){
+           alert("drive safe")
+           console.log("you can drive");
+       }
+       else if(age<18){
+           alert("Not legal age to drive")
+
+           console.log("dont drive the car");
+       }
+   </script> 
+</body>
+</html>
